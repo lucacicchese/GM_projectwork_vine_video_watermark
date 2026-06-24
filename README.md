@@ -20,12 +20,12 @@ The fine-tuned model (bottom row) distributes the watermark more uniformly, redu
 ## Setup
 
 ```bash
-git clone --recurse-submodules <repo-url>
+git clone --recurse-submodules https://github.com/lucacicchese/GM_projectwork_vine_video_watermark.git
 cd GM_projectwork_vine_video_watermark
 pip install -r requirements.txt
 ```
 
-Requires a CUDA-capable GPU. FFmpeg must be installed and available on `PATH`.
+FFmpeg must be installed and available on `PATH`.
 
 ---
 
